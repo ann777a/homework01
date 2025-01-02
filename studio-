@@ -1,0 +1,4 @@
+<script>start("/Users/anndenisyuk/studio/studio-/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,352,"352 B",1735664058,"31.12.24, 18:54:18");</script>
+<script>addRow("images","images",1,352,"352 B",1735829707,"02.01.25, 16:55:07");</script>

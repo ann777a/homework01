@@ -1,0 +1,11 @@
+<script>start("/Users/anndenisyuk/studio/studio-/images/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("camila-garcia.jpg","camila-garcia.jpg",0,4829,"4.7 kB",1735765370,"01.01.25, 23:02:50");</script>
+<script>addRow("daniel-wilson.jpg","daniel-wilson.jpg",0,5388,"5.3 kB",1735765366,"01.01.25, 23:02:46");</script>
+<script>addRow("img-2.jpg","img-2.jpg",0,57606,"56.3 kB",1735827221,"02.01.25, 16:13:41");</script>
+<script>addRow("img-3.jpg","img-3.jpg",0,78254,"76.4 kB",1735827227,"02.01.25, 16:13:47");</script>
+<script>addRow("img-4.jpg","img-4.jpg",0,52937,"51.7 kB",1735827232,"02.01.25, 16:13:52");</script>
+<script>addRow("img.jpg","img.jpg",0,52931,"51.7 kB",1735827216,"02.01.25, 16:13:36");</script>
+<script>addRow("index.html","index.html",0,3800,"3.7 kB",1735829714,"02.01.25, 16:55:14");</script>
+<script>addRow("mark-guerrero.jpg","mark-guerrero.jpg",0,4552,"4.4 kB",1735765346,"01.01.25, 23:02:26");</script>
+<script>addRow("tom-ford.jpg","tom-ford.jpg",0,4060,"4.0 kB",1735765360,"01.01.25, 23:02:40");</script>
